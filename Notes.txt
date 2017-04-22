@@ -1,0 +1,21 @@
+-keys+ way of knowing how many/ objects interactable give boosts/powerups/
+doors that are usable
+score/ treasure
+spikes/ obstacles
+
+new levels
+"only if you have time"inventory for items
+GUIS:
+-ending
+
+
+-start menu / options***FIRST ONE***
+
+
+-saving
+
+
+
+"DO IT LATER"-npcs / enemies
+
+update lvl 4 - add 40 points worth of gems at least, 1 make level limit way larger, put gems on background, when all gems are collected, reset level,or level 5 load that level     
